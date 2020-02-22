@@ -1,5 +1,5 @@
 ---
-title: "Introducing Bows3r - A Small S3 Browser Writen in Pure Kotlin"
+title: "Introducing Bows3r - A Small S3 Browser Written in Pure Kotlin"
 date: 2019-07-29T19:52:50+11:00
 tags: 
     - ssr
