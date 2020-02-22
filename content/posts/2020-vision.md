@@ -1,5 +1,5 @@
 ---
-title: "2020 Vsion"
+title: "2020 Vision"
 date: 2020-01-19T20:41:31+11:00
 tags:
 - life
