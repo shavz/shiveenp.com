@@ -2,8 +2,8 @@
 title: "Post Boot Actions Using Application Events"
 date: 2019-01-10T18:23:18+11:00
 tags:
-    - springboot
-    - kotlin
+- springboot
+- kotlin
 ---
 
 ## Background
