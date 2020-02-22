@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2020-02-22T18:11:37+11:00
-draft: true
 ---
 
 Hi! My name is Shiveen 👋🏽 🤓
