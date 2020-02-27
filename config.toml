@@ -70,7 +70,7 @@ enableEmoji = true
           avatarURL = "images/avatar.png"
           # subtitle shown in home page
           subtitle = "Software engineer based in Sydney. Passionate about travel, landscape photography and open source"
-          typeit = true
+          typeit = false
           social = true
         # Home Page Posts
         [languages.en.params.home.posts]
