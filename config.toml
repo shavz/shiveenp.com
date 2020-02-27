@@ -42,7 +42,7 @@ enableEmoji = true
       # site keywords
       keywords = ["Shiveen", "Pandita", "Personal", "Blog", "Software", "Programming", "Photos"]
       # site default theme ("light", "dark", "auto")
-      defaultTheme = "auto"
+      defaultTheme = "light"
       # public git repo url to link lastmod git commit only then enableGitInfo is true
       gitRepo = ""
       # Header info
