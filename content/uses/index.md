@@ -17,9 +17,9 @@ Sometimes I get asked for my development setup and the apps I use for my everyda
 
 - [Keychron K2 Mechanical Keyboard with Brown Switches](https://www.keychron.com/products/keychron-k2-mechanical-keyboard?variant=31063869653081)
 
-- Airpods
+- [Airpods](https://www.apple.com/au/airpods/)
 
-- iPhone 11 Pro
+- [iPhone 11 Pro](https://www.apple.com/au/iphone-11-pro/)
 
 ## Software 👓
 
@@ -34,9 +34,9 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 
 ### Development Tools
 
-- [iTerm2](https://iterm2.com): I use this as my main terminal with zsh and oh my zsh installed.
-- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/): My IDE of choice. I do all my backend heavy and enterprise work in this. I use this ultimate version as the framework support alone (excluding all the other ultimate perks) makes it more than worth the money
-- [Visual Studio Code](https://code.visualstudio.com): For my web dev and as a general text editor
+- [iTerm2](https://iterm2.com): I use this as my main terminal with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) installed.
+- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/): My IDE of choice. I do all my backend heavy and enterprise work in this. I use this ultimate version for the framework support alone (excluding all the other ultimate perks) makes it more than worth the money.
+- [Sublime Text](https://www.sublimetext.com/): As a general text editor
 - [Docker](https://www.docker.com): For pakaging all my apps before deployment
 - [Postico](https://eggerapps.at/postico/): As my database browser of choice
 - [Github](https://github.com): My code repository of choice
