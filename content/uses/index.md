@@ -42,19 +42,22 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 - [Github](https://github.com): My code repository of choice
 - [Digital Ocean](https://www.digitalocean.com): I find these guys good value for money compared to AWS for hobby projects
 - [Netlify](https://www.netlify.com): Use it to host this blog, they are a delight to work with
-- [Firefox Dev Edition](https://www.mozilla.org/en-US/firefox/developer/) As my webdev and everyday browser
+- [Chrome](https://www.google.com/chrome/) As my webdev and everyday browser. I keep firefox dev edition and Safari around for testing
 - [Postman](https://www.getpostman.com): For api testing
+- [Fork](https://git-fork.com/) for days when when cli git just won't cut it
 
 ### Apps 
 
 - [1Password](https://1password.com) for managing my logins and passwords
 - [Bear](https://bear.app) for note taking
-- [ON1 Photo RAW](https://www.on1.com) for editing my DSLR photos
+- [ON1 Photo RAW](https://www.on1.com) as my lightroom replacement
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) for creating logos and vector graphic editing
 - [Figma](https://www.figma.com) Their free account is perfect for wireframe mockups
 - [Rocket](https://matthewpalmer.net/rocket/) for amazing emoji support everywhere
 - [Slack](https://slack.com/intl/en-au/) for work and dev community chats
-- [Trello](https://trello.com/en) for managing my personal development to-do boards
+- [Things 3](https://culturedcode.com/things/) as my main GTD app. Also hands down the best app I own across all my devices
+- [Fantastical](https://flexibits.com/fantastical) My mac calendar replacement
+- [Trello](https://trello.com/en) for managing my personal and professional development vision boards
 - [NordVPN](https://nordvpn.com) for when you need VPN at an airport or a cafe
 - [Magnet](https://apps.apple.com/au/app/magnet/id441258766?mt=12) for easy window tiling
 - [Lungo](https://apps.apple.com/us/app/lungo/id1263070803?mt=12) good replacement for caffeine, to keep my mac awake
