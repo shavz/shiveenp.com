@@ -17,6 +17,8 @@ Sometimes I get asked for my development setup and the apps I use for my everyda
 
 - [Keychron K2 Mechanical Keyboard with Brown Switches](https://www.keychron.com/products/keychron-k2-mechanical-keyboard?variant=31063869653081)
 
+- [Satechi Desk Mat](https://satechi.net/products/satechi-desk-mat-mate) 
+
 - [Airpods](https://www.apple.com/au/airpods/)
 
 - [iPhone 11 Pro](https://www.apple.com/au/iphone-11-pro/)
@@ -62,6 +64,4 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 - [Magnet](https://apps.apple.com/au/app/magnet/id441258766?mt=12) for easy window tiling
 - [Lungo](https://apps.apple.com/us/app/lungo/id1263070803?mt=12) good replacement for caffeine, to keep my mac awake
 - [Spotify](https://www.spotify.com/au/) for music
-- [Dato](https://www.spotify.com/au/) good stock date/time replacement app
-- [Wipr](https://apps.apple.com/au/app/wipr/id1320666476?mt=12) for a good adblock on safari
 
