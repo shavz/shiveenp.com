@@ -36,16 +36,16 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 
 ### Development Tools
 
-- [iTerm2](https://iterm2.com): I use this as my main terminal with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) installed.
-- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/): My IDE of choice. I do all my backend heavy and enterprise work in this. I use this ultimate version for the framework support alone (excluding all the other ultimate perks) makes it more than worth the money.
-- [Sublime Text](https://www.sublimetext.com/): As a general text editor
-- [Docker](https://www.docker.com): For pakaging all my apps before deployment
-- [Postico](https://eggerapps.at/postico/): As my database browser of choice
-- [Github](https://github.com): My code repository of choice
-- [Digital Ocean](https://www.digitalocean.com): I find these guys good value for money compared to AWS for hobby projects
-- [Netlify](https://www.netlify.com): Use it to host this blog, they are a delight to work with
+- [iTerm2](https://iterm2.com) I use this as my main terminal with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) installed
+- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) My IDE of choice for both back and front end work
+- [Sublime Text](https://www.sublimetext.com/) As a general text editor
+- [Docker](https://www.docker.com) For pakaging all my apps before deployment
+- [Postico](https://eggerapps.at/postico/) As my database browser of choice
+- [Github](https://github.com) My code repository of choice
+- [Digital Ocean](https://www.digitalocean.com) I find these guys good value for money compared to AWS for hobby projects
+- [Netlify](https://www.netlify.com) Use it to host this blog, they are a delight to work with
 - [Chrome](https://www.google.com/chrome/) As my webdev and everyday browser. I keep firefox dev edition and Safari around for testing
-- [Postman](https://www.getpostman.com): For api testing
+- [Postman](https://www.getpostman.com) For api testing
 - [Fork](https://git-fork.com/) for days when when cli git just won't cut it
 
 ### Apps 
