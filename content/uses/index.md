@@ -31,7 +31,7 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 
 - [Kotlin](https://kotlinlang.org/) with SpringBoot for quick backend projects 🚀
 - [VueJS](https://vuejs.org/) for frontend 🤩
-- [Go](https://golang.org/) for quick tools and learning some new techniques 🔨
+- [Rust](https://www.rust-lang.org/) for quick tools and learning some new techniques 🔨
 - [Swift](https://developer.apple.com/swift/) for building iOS Apps 📱
 
 ### Development Tools
@@ -52,6 +52,7 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 
 - [1Password](https://1password.com) for managing my logins and passwords
 - [Bear](https://bear.app) for note taking
+- [Rescue Time](https://www.rescuetime.com/) for detailed graphs on how I manage my time so I can be more productive when I need to be. Use my [referral link](https://www.rescuetime.com/ref/2254444) if you'd like to sign up too.
 - [ON1 Photo RAW](https://www.on1.com) as my lightroom replacement
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) for creating logos and vector graphic editing
 - [Figma](https://www.figma.com) Their free account is perfect for wireframe mockups
