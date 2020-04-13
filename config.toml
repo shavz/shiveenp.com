@@ -1,253 +1,54 @@
 baseURL = "https://shiveenp.com"
-defaultContentLanguage = "en"
-theme = "LoveIt"
-enableRobotsTXT = true
-enableGitInfo = false
-enableEmoji = true
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # "light" or "dark"
+  defaultTheme = "dark"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+  # Show reading time in minutes for posts
+  showReadingTime = true
 
 
-[languages.en]
-  weight = 1
-  # language code
-  languageCode = "en"
-  # website title
-  title = "Shiveen Pandita"
-  # whether to include chinese/japanese/korean
-  hasCJKLanguage = false
-  # default amount of posts in each pages
-  paginate = 20
-  # [UA-XXXXXXXX-X] google analytics code
-  googleAnalytics = "UA-137876316-1"
-  # copyright description used only for seo schema
-  copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-  # date format
-  dateFormatToUse = "2006-01-02"
-  # Menu Info
-  [languages.en.menu]
-    [[languages.en.menu.main]]
-      identifier = "posts"
-      name = "Posts"
-      url = "/posts/"
-      weight = 1
-    [[languages.en.menu.main]]
-      identifier = "about"
-      name = "About"
-      url = "/about/"
-      weight = 2
-    [languages.en.params]
-      # LoveIt theme version
-      version = "0.1.X"
-      # site description
-      description = "Shiveen Pandita Personal Website"
-      # site keywords
-      keywords = ["Shiveen", "Pandita", "Personal", "Blog", "Software", "Programming", "Photos"]
-      # site default theme ("light", "dark", "auto")
-      defaultTheme = "light"
-      # public git repo url to link lastmod git commit only then enableGitInfo is true
-      gitRepo = ""
-      # Header info
-      [languages.en.params.header]
-        # desktop header mode ("fixed", "normal", "auto")
-        desktopMode = "fixed"
-        # mobile header mode ("fixed", "normal", "auto")
-        mobileMode = "auto"
-      # Footer Copyright Info
-      [languages.en.params.footer]
-        # Site creation time
-        since = 2019
-        # ICP info only in China (HTML format is allowed)
-        icp = ""
-        # license info (HTML format is allowed)
-        license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
-      # Home Page Info
-      [languages.en.params.home]
-        # Home Page Profile
-        [languages.en.params.home.profile]
-          enable = true
-          # Gravatar Email for preferred avatar in home page
-          gravatarEmail = "shiveenpandita@gmail.com"
-          # URL of avatar shown in home page
-          avatarURL = "images/avatar.png"
-          # subtitle shown in home page
-          subtitle = "Software engineer based in Sydney. Passionate about travel, landscape photography and open source"
-          typeit = false
-          social = true
-        # Home Page Posts
-        [languages.en.params.home.posts]
-          enable = true
-          # special amount of posts in each home posts page
-          paginate = 5
-          # default behavior when you don't set "hiddenFromHomePage" in front matter
-          defaultHiddenFromHomePage = false
-      # Social Info in home page
-      [languages.en.params.social]
-        GitHub = "shavz"
-        Linkedin = "shiveen-pandita-83680b46/"
-        Twitter = "shavzer"
-        Devto = "shavz"
-        Instagram = "shavzer"
-        Email = "shiveenpandita@gmail.com"
-      # Page config
-      [languages.en.params.page]
-        # whether to show social share links in post page
-        socialShare = true
-        # whether to show link to Raw Markdown content of the post
-        linkToMarkdown = true
-      # Social Share Links in post page
-      [languages.en.params.share]
-        enable = true
-        Twitter = true
-        Linkedin = true
-        HackerNews = true
-        Reddit = true
-      # mathematical formulas (KaTeX)
-      [languages.en.params.math]
-        enable = true
-        # default inline delimiter is $ ... $ and \\( ... \\)
-        inlineLeftDelimiter = ""
-        inlineRightDelimiter = ""
-        # default block delimiter is $$ ... $$ and \\[ ... \\]
-        blockLeftDelimiter = ""
-        blockRightDelimiter = ""
-        # KaTeX extension copy_tex
-        copyTex = true
-        # KaTeX extension mhchem
-        mhchem = true
-      # CSS and JS Files CDN
-      [languages.en.params.cdn]
-        ## for example '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.10.1/css/all.min.css" integrity="sha256-fdcFNFiBMrNfWL6OcAGQz6jDgNTRxnrLEd4vJYFWScE=" crossorigin="anonymous">'
-        fontawesomeFreeCSS = ''
-        animateCSS = ''
-        gitalkCSS = ''
-        gitalkJS = ''
-        valineJS = ''
-        lazysizesJS = ''
-        smoothScrollJS = ''
-        sharerJS = ''
-        katexCSS = ''
-        katexJS = ''
-        katexAutoRenderJS = ''
-        katexCopyTexCSS = ''
-        katexCopyTexJS = ''
-        katexMhchemJS = ''
-        mermaidJS = ''
-        echartsJS = ''
-        echartsMacaronsJS = ''
-        typeitJS = ''
-        aplayerCSS = ''
-        aplayerJS = ''
-        metingJS = ''
-      # site verification code for Google/Bing/Yandex/Pinterest/Baidu
-      [languages.en.params.verification]
-        google = ""
-        bing = ""
-        yandex = ""
-        pinterest = ""
-        baidu = ""
-      # Publisher Info just for SEO
-      [languages.en.params.publisher]
-        name = "Shiveen Pandita"
-        [languages.en.params.publisher.logo]
-          url = "logo.png"
-          width = 127
-          height = 40
-      # Website Log Info just for SEO
-      [languages.en.params.logo]
-        url = "logo.png"
-        width = 127
-        height = 40
-      # Website Image Info just for SEO
-      [languages.en.params.image]
-        url = "cover.png"
-        width = 800
-        height = 600
-      # Comment Config
-      [languages.en.params.comment]
-        enable = true
-        # Disqus Comment Config (https://disqus.com/)
-        [languages.en.params.comment.disqus]
-          # Disqus shortname to use Disqus in posts
-          shortname = "https-www-shiveenp-com"
-        # Gittalk Comment Config (https://github.com/gitalk/gitalk)
-        [languages.en.params.comment.gitalk]
-          owner = ""
-          repo = ""
-          clientId = ""
-          clientSecret = ""
-        # Valine Comment Config (https://github.com/xCss/Valine)
-        [languages.en.params.comment.valine]
-          enable = false
-          appId = ""
-          appKey = ""
-          placeholder = "Your comment ..."
-          notify = false
-          verify = true
-          avatar = "mp"
-          # meta= ""
-          pageSize = 10
-          visitor = true
-          recordIP = true
+[languages]
+  [languages.en]
+    title = "Shiveen Pandita"
+    subtitle = "Software engineer based in Sydney. Passionate about travel, landscape photography and open source"
+    keywords = "Shiveen,Pandita,Personal,Blog,Software,Programming,Photos"
+    copyright = "© 2019 - 2020 Shiveen Pandita | CC BY-NC 4.0"
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
 
-[markup]
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-    style = "monokai"
-    tabWidth = 4
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.renderer]
-      # whether to use HTML tags directly in the document
-      unsafe = true
-  # Table Of Contents settings
-  # 目录设置
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 6
+    [languages.en.params.logo]
+      logoText = "Shiveen Pandita"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
 
-# Author Info
-[author]
-  name = "Shiveen Pandita"
-  link = "https://twitter.com/shavzer"
-
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
-[Permalinks]
-  posts = ":year/:month/:filename"
-  # posts = ":filename"
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-
-  [privacy.youtube]
-    privacyEnhanced = true
-[mediaTypes]
-  [mediaTypes."text/plain"]
-    suffixes = ["md"]
-
-[outputFormats.MarkDown]
-  mediaType = "text/plain"
-  isPlainText = true
-  isHTML = false
-
-[outputs]
-  home = ["HTML", "RSS"]
-  page = ["HTML", "MarkDown"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
-
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "uses"
+        name = "Uses"
+        url = "/uses"

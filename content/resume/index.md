@@ -5,6 +5,7 @@ date: 2019-11-08T21:44:35+11:00
 
 # Summary
 
+Welcome to
 I lead development and product teams to succeed by setting up and evolving the development strategies that scale, as well as impact key business products and outcomes. 
 
 # Experience
@@ -62,7 +63,3 @@ Database: Postgresql, Mongodb
 Devops: AWS, Kubernetes, Docker
 
 Methodologies: Agile
-
-
-
-

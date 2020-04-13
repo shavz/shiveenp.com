@@ -1,6 +1,7 @@
 ---
 title: "Brows3r - Pure Kotlin S3 Browser"
 date: 2019-07-29T19:52:50+11:00
+cover: "/Brows3r-screenshot.png"
 tags: 
 - ssr
 - kweb
