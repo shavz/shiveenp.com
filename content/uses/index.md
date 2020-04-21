@@ -9,6 +9,8 @@ Sometimes I get asked for my development setup and the apps I use for my everyda
 
 ### Hardware ‍👨‍💻
 
+![](/screenfetch_screenshot.png#center)
+
 - [Macbook Pro 13"](https://www.apple.com/au/macbook-pro-13/): I have used windows, linux and Mac both professionally and as a hobbyist. Although I was on Ubuntu for a couple of years, nothing beats the general ease of use and dev friendliness of a Mac
 
 - [Dell Ultrasharp 32" 4K Monitor](https://www.amazon.com.au/32-Inch-Screen-LED-Lit-Monitor-U3219Q/dp/B07HDBD9CM): I use a 4K monitor at home to do all my dev and creative (photo editing) work
