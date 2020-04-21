@@ -20,3 +20,4 @@ In my spare time I love catching up on all things' astronomy 🌌 🚀, history 
 Outside of my programming pursuits, my long term hobbies include camping 🏕, hiking 🥾, boxing 🥊 and landscape photography ⛰ 📷.
 
 Here's a glimpse of tools I [use](/uses).
+
