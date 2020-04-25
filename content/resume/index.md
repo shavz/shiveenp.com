@@ -2,10 +2,9 @@
 title: "Resume"
 date: 2019-11-08T21:44:35+11:00
 ---
-
 # Summary
+Welcome to my online resume, if you're here I am assuming you want an idea of what my experience and capabilities are.
 
-Welcome to
 I lead development and product teams to succeed by setting up and evolving the development strategies that scale, as well as impact key business products and outcomes. 
 
 # Experience
