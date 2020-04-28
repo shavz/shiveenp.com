@@ -48,3 +48,6 @@ paginate = 5
         identifier = "uses"
         name = "Uses"
         url = "/uses"
+
+[markup.goldmark.renderer]
+unsafe= true

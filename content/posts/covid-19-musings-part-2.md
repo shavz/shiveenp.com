@@ -6,6 +6,10 @@ tags:
 - covid-19
 - jobs
 ---
+
+![](/covid-19-musings-part-2.jpg)
+<p style="text-align:center; font-size: 12px">Photo by Allie on Unsplash</p>
+
 This post is part 2 of this series. Part 1 can be found [here](https://www.shiveenp.com/posts/covid-19-musings-part-1/).
 
 Recently the company I worked for laid off all its employees. Before I go further, I think its worth laying down the context. The company was doing some innovative work in the Fintech SaaS space within Australia/New Zealand and was in various stages between demo to about to sign a contract stage with various companies. However, due the Covid-19 related market downturn — a lot of investors pulled out of final stage funding  rounds, resulting in many people losing their jobs. There is more to say on this topic but I will leave that for a future post.
