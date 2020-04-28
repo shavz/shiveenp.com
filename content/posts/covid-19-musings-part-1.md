@@ -6,7 +6,7 @@ tags:
 - covid-19
 ---
 
-(This is part 1 of not sure how many posts to come)
+This post is part 1 of this series. Part 2 can be found [here]({{< ref "/posts/covid-19-musings-part-2.md" >}}).
 
 Ever since the coronavirus started taking its hold around the communities and economies of the world - it has had a profound impact on everyone. As a result, everyone has had to adapt to this harsh new reality. 
 
