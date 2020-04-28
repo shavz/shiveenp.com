@@ -67,4 +67,5 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 - [Magnet](https://apps.apple.com/au/app/magnet/id441258766?mt=12) for easy window tiling
 - [Lungo](https://apps.apple.com/us/app/lungo/id1263070803?mt=12) good replacement for caffeine, to keep my mac awake
 - [Spotify](https://www.spotify.com/au/) for music
+- [Kap]() My go to app for creating screen recordings
 
