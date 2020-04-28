@@ -5,11 +5,14 @@ tags:
 - life
 - covid-19
 ---
+
 This post is part 1 of this series. Part 2 can be found [here](https://www.shiveenp.com/posts/covid-19-musings-part-2/).
 
 Ever since the coronavirus started taking its hold around the communities and economies of the world - it has had a profound impact on everyone. As a result, everyone has had to adapt to this harsh new reality. 
 
-With all that in mind, I thought it might be worthwhile documenting everything that is going around in my head. But with everything going on it's hard to put all those thoughts in a clean format. So what  I have instead decided to do is make small posts about the all the small things that have changed since. This particular posts is about all the things that I have always wanted or loved to do, but never had time to do.
+With all that in mind, I thought it might be worthwhile documenting everything that is going around in my head. But with everything going on it's hard to put all those thoughts in a clean format. So what  I have instead decided to do is make small posts about the small things that have happened since. 
+
+This particular posts is about all the things that I have always wanted or loved to do, but never had time to do.
 
 - **Cooking** in the last few days has been my go to hobby. I got all the extra time I have had in my life since I’m not wasting time commuting or being in meetings all the time. This has meant that since the last two weeks the quality of my meals has gone a whole lot better. There's also something therapeutic about cooking which keeps me anchored during these times. 
  

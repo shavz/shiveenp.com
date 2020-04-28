@@ -14,7 +14,7 @@ Right after receiving the redundancy notice, I decided to start looking for some
 
 ## Everyone is in the same boat
 
-…and I mean everyone. Strong financially viable companies that were on hiring spree just weeks prior to the cover-19 downturn started freezing their roles. I myself had applied at 3 companies with positive pre interview phone chats with two of them and a technical interview scheduled with one. However, no more than a week later, I got an email from one of them stating that the role I was interviewing for had been frozen. I never got any call/email from the other two but looking at their company careers page later, all the roles advertised previously had been taken down — so I can only assume they went through a similar hiring freeze.
+…and I mean everyone. Strong, financially viable companies that were on hiring spree just weeks prior to the covid-19 downturn started freezing their roles. I myself had applied at 3 companies with positive pre interview phone chats with two of them and a technical interview scheduled with one. However, no more than a week later, I got an email from one of them stating that the role I was interviewing for had been frozen. I never got any call/email from the other two but looking at their company careers page later, all the roles advertised previously had been taken down — so I can only assume they went through a similar hiring freeze.
 
 ## Remote interviews are in town and here to stay
 
@@ -43,15 +43,11 @@ With all that was going on in the world and my personal and professional life, f
 
 However, I had to remind myself — the world is fucked but could be a lot worse. I know I have a lot to be grateful for and everyday I like to remind myself that I’m one of the lucky ones in these times. I have a loving partner, family that is willing to support me. Friends old and new that reached out to me and offered to help or just chat. And, I happen to live in a country where for all its flaws the government has the capacity and willingness to help its people during this crisis.
 
->Please do not ignore your mental health in these times.
+> Please do not ignore your mental health in these times.
 
 The days when I wasn’t in the right mindset were the days when I had the worst interviews. I was disconnected and not genuine. This was not the energy I’m used to and it changing that was a key decision I took which helped me quite a bit in my job search journey. Some things that helped me tide over my negative thoughts were,
 
 - Having a journal. I use the Mac app [Day One](https://dayoneapp.com/) but it could easily be a physical journal if you prefer the analog medium. A quick 5 minute writing at the end of the day is not only cathartic but comes ise use as a handy little mood tracker that I could look back in a years time.
 - Getting into a new passive hobby. For me this was cooking which helped me a great deal in destressing between interview rounds and also made for a well stocked fridge. It’s also something that will keep on giving for a lifetime since my partner and I both love eating.
-- Nurturing relationships. This is harder said than done atleast for me since I’m generally not the type of person that calls first — however, over the past few weeks I have consistently had chess matches with my partner (which I have consistently lost as well and probably was not that good for my mental health now that I think about it), called friends and family a lot more than I used to, and made conscious genuine effort to reach out to friends outside of work.
-
-## Parting Thoughts
-I think its worth pointing out now that this is not some authroatibve view on applying for jobs during a pandemic. Your circumstances might  compleletly different than mine. My only goad here was to highlight my experiences and things that I noticed in the over the past few weeks.
-
+- Nurturing relationships. This is harder said than done atleast for me since I’m generally not the type of person that calls first — however, over the past few weeks I have consistently had chess matches with my partner (which I have also consistently lost as well and probably was not that good for my mental health now that I think about it), called friends and family a lot more than I used to, and made conscious genuine effort to reach out to friends outside of work.
 
