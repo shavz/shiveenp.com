@@ -6,8 +6,6 @@ tags:
 - covid-19
 ---
 
-This post is part 1 of this series. Part 2 can be found [here]({{< ref "/posts/covid-19-musings-part-2.md" >}}).
-
 Ever since the coronavirus started taking its hold around the communities and economies of the world - it has had a profound impact on everyone. As a result, everyone has had to adapt to this harsh new reality. 
 
 With all that in mind, I thought it might be worthwhile documenting everything that is going around in my head. But with everything going on it's hard to put all those thoughts in a clean format. So what  I have instead decided to do is make small posts about the all the small things that have changed since. This particular posts is about all the things that I have always wanted or loved to do, but never had time to do.

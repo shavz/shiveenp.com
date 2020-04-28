@@ -4,8 +4,6 @@ date: 2020-04-28T16:22:09+10:00
 draft: true
 ---
 
-This post is part 2 of this series. Part 1 can be found [here]({{< ref "/posts/covid-19-musings-part-1.md" >}}).
-
 Recently the company I worked for laid off all its employees. Before I go further, I think its worth laying down the context. The company was doing some innovative work in the Fintech SaaS space within Australia/New Zealand and was in various stages between demo to about to sign a contract stage with various companies. However, due the Covid-19 related market downturn — a lot of investors pulled out of final stage funding  rounds, resulting in many people losing their jobs. There is more to say on this topic but I will leave that for a future post.
 
 Right after receiving the redundancy notice, I decided to start looking for some other oppurtunities. I am no stranger to job hunting and have had my fair share of interviews throughout my career so far, but it felt like job hunt this time round was going to be a lot harder than I expected. Here are my thoughts on the job market in the past few weeks:
