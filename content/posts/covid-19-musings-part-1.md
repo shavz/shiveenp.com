@@ -5,7 +5,7 @@ tags:
 - life
 - covid-19
 ---
-This post is part 1 of this series. Part 2 can be found [here]("https://www.shiveenp.com/posts/covid-19-musings-part-2/").
+This post is part 1 of this series. Part 2 can be found [here](https://www.shiveenp.com/posts/covid-19-musings-part-2/).
 
 Ever since the coronavirus started taking its hold around the communities and economies of the world - it has had a profound impact on everyone. As a result, everyone has had to adapt to this harsh new reality. 
 
