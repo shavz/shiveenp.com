@@ -9,8 +9,13 @@ I lead development and product teams to succeed by setting up and evolving the d
 
 # Experience
 
-## Grow Super - Solutions Architect
-December 2019 - Present
+### Atlassian - Senior Engineer
+May 2020 - Present
+
+Working closely within a highly performant team to deliver key business objectives around Jira capabilties enhancement.
+
+## Grow Super - Tech Lead
+December 2019 - April 2020
 
 As part of this role, I am involved in gathering and digesting, business and user experience requirements to come up with system architecture for reliable, scalable and maintainable systems. This involves working with extremely complicated Australian and New Zealand super industry also adopting the best tools and architectures out there for data intensive applications.
 
