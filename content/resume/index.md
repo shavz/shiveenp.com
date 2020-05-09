@@ -2,19 +2,19 @@
 title: "Resume"
 date: 2019-11-08T21:44:35+11:00
 ---
-# Summary
+## Summary
 Welcome to my online resume, if you're here I am assuming you want an idea of what my experience and capabilities are.
 
 I lead development and product teams to succeed by setting up and evolving the development strategies that scale, as well as impact key business products and outcomes. 
 
-# Experience
+## Experience
 
 ### Atlassian - Senior Engineer
 May 2020 - Present
 
 Working closely within a highly performant team to deliver key business objectives around Jira capabilties enhancement.
 
-## Grow Super - Tech Lead
+### Grow Super - Tech Lead
 December 2019 - April 2020
 
 As part of this role, I am involved in gathering and digesting, business and user experience requirements to come up with system architecture for reliable, scalable and maintainable systems. This involves working with extremely complicated Australian and New Zealand super industry also adopting the best tools and architectures out there for data intensive applications.
@@ -25,7 +25,7 @@ My day to day role includes, but is not limited to:
 - Doing initial large impact pre-MVP/MVP product build before handing it off to feature teams.
 - Coaching and mentoring software engineers across all levels.
 
-## Grow Super — Lead Software Engineer
+### Grow Super — Lead Software Engineer
 July 2019 — December 2019
 
 As part of this role, I was involved in building out both green and brownfield projects from scratch and working closely with the product, design and external stakeholders to deliver the best technology outcomes for our end users.
@@ -35,7 +35,7 @@ As part of this role, I was involved in building out both green and brownfield p
 - Provided uplift to the existing NodeJS applications by using better Javascript development practices.
 - Championed the use of modern development practices, proper service oriented architecture and TDD, including holding internal mentorship sessions with various team members.
 
-## Ordermentum — Senior Software Engineer/Platform Lead
+### Ordermentum — Senior Software Engineer/Platform Lead
 June 2018 – July 2019 
 
 Joined the team as a senior engineer leading the technical design and delivering scalable and performant event-driven JVM based microservices for a team looking to move away from NodeJS monolith.
@@ -45,7 +45,7 @@ Joined the team as a senior engineer leading the technical design and delivering
 - Built and delivered the rewrite of the reporting engine, that enabled users to request on demand reports as well as dynamic scheduled reports which drove business delivery for key clients.
 - Created an open sourced [Rust] utility that formed a key piece of business functionality relied on by clients.
 
-## JP Morgan - Associate Software Engineer
+### JP Morgan - Associate Software Engineer
 Dec 2016 - June 2018
 
 Working in this role, I wore many hats and worked across various agile feature teams across the custody, fund management and risk lines of business. Some key deliverables and objectives that I worked on my time there included working on a fund management exception and reporting system, a risk reporting system, and several other smaller projects.
@@ -56,14 +56,14 @@ Working in this role, I wore many hats and worked across various agile feature t
 
 ## Tools and Languages
 
-Languages: Kotlin, Java, Rust, Go, Javascript, Python
+Languages: Kotlin, Java, Javascript, Rust, Python, C
 
 Backend Frameworks: Spring, Vert.x, Http4k
 
 Frontend Frameworks: VueJS, React
 
-Database: Postgresql, Mongodb
+Database: Postgresql, Mongodb, Sybase
 
-Devops: AWS, Kubernetes, Docker
+Devops: AWS, Kubernetes, Openshift, Docker, Packer
 
-Methodologies: Agile
+Methodologies: Agile, Kanban, Waterfall
