@@ -3,9 +3,9 @@ title: "About"
 date: 2020-02-22T18:11:37+11:00
 ---
 
-Hi! My name is Shiveen 👋🏽 🤓 
+Hi and welcome to my site. 
 
-I like building software and products for companies that are making a difference. I am currently a Senior Engineer @ [Atlassian](https://www.atlassian.com/) working on the Jira family of products. I have previously worked in finance @ [JPMorgan](https://www.jpmorgan.com/) and lead the platform team for a large scale orders and payments system @ [Ordermentum](https://www.ordermentum.com/) and most recently as Tech Lead @ [Grow Super](https://www.growsuper.com/) which is focussed on making a super admin platform. 
+My name is Shiveen and I like building great products. I am currently a Senior Engineer @ [Atlassian](https://www.atlassian.com/) working on the Jira family of products. 
 
 Growing up, I've always been fascinated with how the world works, and the ability to write software allows me to creatively explore the world and leave it a little bit better.
 
