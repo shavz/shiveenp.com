@@ -20,6 +20,10 @@ Sometimes I get asked for my development setup and the apps I use for my everyda
 - [Keychron K2 Mechanical Keyboard with Brown Switches](https://www.keychron.com/products/keychron-k2-mechanical-keyboard?variant=31063869653081)
 
 - [IKEA SIGFINN Monitor Riser](https://www.ikea.com/au/en/p/sigfinn-monitor-stand-fixed-height-bamboo-veneer-90388394/)
+
+- [iPad Air](apple.com/au/ipad-air/)
+ 
+- [Apple Pencil](https://www.apple.com/au/apple-pencil/)
   
 - [Satechi Desk Mat](https://satechi.net/products/satechi-desk-mat-mate) 
 
@@ -28,6 +32,10 @@ Sometimes I get asked for my development setup and the apps I use for my everyda
 - [iPhone 11 Pro](https://www.apple.com/au/iphone-11-pro/)
 
 - [Bose QC 35 II](https://www.bose.com.au/en_au/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html)
+
+- [Bellroy Studio Backpack](https://bellroy.com/products/studio-backpack/)
+
+- [Keychron Palm Rest](https://www.keychron.com/products/keychron-k2-walnut-wood-palm-rest)
 
 ## Software 👓
 
@@ -43,15 +51,16 @@ My dotfiles can be found [here](https://github.com/shavz/dotfiles)
 ### Development Tools
 
 - [iTerm2](https://iterm2.com) as my main terminal with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) installed
-- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) IDE of choice for both back and front end work. I used to be a big fan of the Darcule theme but have since migrated to [Nord](https://www.nordtheme.com/) as the soft pallettes are a lot easier on my eyes.
+- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) IDE of choice for both back and front end work
 - [VS Code](https://code.visualstudio.com/) as my general text editor
 - [Docker](https://www.docker.com) for pakaging all my apps before deployment
 - [Postico](https://eggerapps.at/postico/) as my database browser of choice
-- [Digital Ocean](https://www.digitalocean.com) find these guys good value for money compared to AWS for hobby projects. Grab a $5 droplet and off you go.
+- [AWS](https://aws.amazon.com/) I primairly use bare Ec2 or their lightsail offering
 - [Netlify](https://www.netlify.com) for hosting static pages (like this blog)
 - [Chrome](https://www.google.com/chrome/) everyday driver for browsing and web dev
 - [Postman](https://www.getpostman.com) for api testing. However, I'm currently also trialling out [Paw](https://paw.cloud/)
 - [Fork](https://git-fork.com/) for days when when cli git just won't cut it
+- [RunCat](https://kyome.io/runcat/index.html)
 
 ### Apps 
 

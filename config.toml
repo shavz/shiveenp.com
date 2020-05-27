@@ -41,13 +41,13 @@ paginate = 5
       logoHomeLink = "/"
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"
       [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
+        identifier = "links"
+        name = "Links"
+        url = "/links"
 
 [markup.goldmark.renderer]
 unsafe= true
