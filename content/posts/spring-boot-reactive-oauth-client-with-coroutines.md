@@ -10,6 +10,8 @@ tags:
 - kotlin
 ---
 
+{{< figure src="/spring-boot-coroutines-oauth.jpg" alt="image" caption="Photo by Buzz Andersen on Unsplash" class=big" >}}
+
 ## Background
 In this post, I’ll walk through two new exciting things that have happened in the spring ecosystem recently. First is spring webflux support for kotlin [couroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) and second is the overhaul of spring security, and the addition of the out of the box oauth2 client support for [social logins](https://spring.io/blog/2018/07/03/spring-social-end-of-life-announcement).
 
@@ -52,7 +54,7 @@ As you can see we have simply used the normal way of defining a new spring based
 
 Next we will build a handler that let’s us handle our service response.
 
-```kotlinsa
+```kotlin
 @Component
 class Handler(val service: Service) {
 
@@ -141,3 +143,4 @@ If you'd like to experiment yourself the source code for this post can be found 
 3. https://medium.com/@elizarov/execution-context-of-kotlin-flows-b8c151c9309b
 4. https://todd.ginsberg.com/post/springboot-reactive-kotlin-coroutines/
 5. https://spring.io/guides/tutorials/spring-boot-oauth2/
+6. https://spring.io/guides/tutorials/spring-boot-oauth2/#github-register-application

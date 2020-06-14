@@ -9,7 +9,7 @@ Sometimes I get asked for my development setup and the apps I use for my everyda
 
 ### Hardware ‍👨‍💻
 
-{{< image src="/screenfetch_screenshot.png" alt="Mac OS specs Image" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/screenfetch_screenshot.png" alt="Mac OS specs Image" >}}
 
 - [Macbook Pro 13"](https://www.apple.com/au/macbook-pro-13/): I have used windows, linux and Mac both professionally and as a hobbyist. Although I was on Ubuntu for a couple of years, nothing beats the general ease of use and dev friendliness of a Mac
 
