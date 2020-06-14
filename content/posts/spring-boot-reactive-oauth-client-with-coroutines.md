@@ -2,7 +2,7 @@
 title: "Building a Reactive Oauth Client App with SpringBoot and Kotlin Coroutines"
 date: 2020-06-09T20:40:49+10:00
 images:
-  - https://unsplash.com/photos/E4944K_4SvI 
+  - /spring-boot-coroutines-oauth.jpg
 tags:
 - spring
 - webflux
