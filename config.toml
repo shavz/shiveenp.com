@@ -84,3 +84,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
      url = "links/"
      weight = 30
 
+[Social]
+  twitter = "https://twitter.com/shavzer"
