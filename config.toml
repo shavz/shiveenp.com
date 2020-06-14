@@ -1,53 +1,86 @@
 baseURL = "https://shiveenp.com"
 languageCode = "en-us"
-theme = "hello-friend"
-paginate = 5
+defaultContentLanguage = "en"
+title = "Shiveen Pandita"
+theme = "hermit"
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "yourdiscussshortname"
+
+[author]
+  name = "Shiveen Pandita"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # "light" or "dark"
-  defaultTheme = "light"
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  homeSubtitle = "I blog about things that I find interesting"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # bgImg = ""  # Homepage background-image URL
 
-  # Show reading time in minutes for posts
-  showReadingTime = true
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
 
-  Comments = true
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
 
-[languages]
-  [languages.en]
-    title = "Shiveen Pandita"
-    subtitle = "Software engineer based in Sydney. Passionate about travel, landscape photography and open source"
-    keywords = "Shiveen,Pandita,Personal,Blog,Software,Programming,Photos"
-    copyright = "© 2019 - 2020 Shiveen Pandita | CC BY-NC 4.0"
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-    # leave empty to disable, enter display text to enable
-    # lastModDisplay = ""
+  relatedPosts = true  # Add a related content section to all single posts page
 
-    [languages.en.params.logo]
-      logoText = "Shiveen Pandita"
-      logoHomeLink = "/"
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "archive"
-        name = "Archive"
-        url = "/archive"
-      [[languages.en.menu.main]]
-        identifier = "links"
-        name = "Links"
-        url = "/links"
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
-[markup.goldmark.renderer]
-unsafe= true
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/shavz"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/shavzer"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/shiveen-pandita/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
+
+  [[menu.main]]
+     name = "Links"
+     url = "links/"
+     weight = 30
+
