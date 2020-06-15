@@ -130,7 +130,7 @@ Once done, this will start up our Springboot app and you should be able to navig
 
 ## Conclusion
 
-As someone who moved from springboot with spring mvc building blocking code to using spring webflux and spending hours to understand the non-blocking paradigm - the Flow support in webflux is a welcome evolution. The potential of migrating existing codebases to non-reactive stream based paradigm has been greatly amplified, and I can already see the impact it is having in making my own side projects a lot easier to build and reason about! 
+As someone who moved from springboot with spring mvc building blocking code to using spring webflux and spending hours to understand the non-blocking paradigm - the Flow support in webflux is a welcome evolution. The potential of migrating existing codebases to non-blocking stream based paradigm has been greatly amplified, and I can already see the impact it is having in making my own side projects a lot easier to build and reason about! 
 
 If you'd like to experiment yourself the source code for this post can be found on [github](https://github.com/shavz/spring-reactive-kotlin-oauth2-github-example).
 
