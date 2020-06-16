@@ -19,7 +19,7 @@ I develop primarily in Kotlin and VueJs, but also dabble in Rust and Swift.
 
 ## Software
 
-I have only listed main highlights here. For a more comprehensive listing - my dotfiles can be found [here](https://github.com/shavz/dotfiles). Feel free to take things from it as I have done from so many other amazing people out there.
+I have only listed main highlights here. For a more comprehensive listing - my dotfiles can be found [here](https://github.com/shavz/dotfiles). Feel free to copy anything you find interesting, as I have done from so many other amazing people out there.
 
 ### Development Tools
 
