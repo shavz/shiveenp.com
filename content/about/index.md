@@ -3,15 +3,12 @@ title: "About"
 date: 2020-02-22T18:11:37+11:00
 ---
 
-Hi and welcome to my site. 
+👋 I'm Shiveen Pandita, and I currently live in Sydney. I write and blog about software, nature and life in general. I like to work on hard problems, build new products and nurture teams 🌱.
 
-My name is Shiveen and I like building great products.
+Currently, in my day job I am working on Jira Service Desk at [Atlassian](https://www.atlassian.com). My previous stints include [Grow Super](https://www.growsuper.com), [Ordermentum](https://www.ordermentum.com) and [JP Morgan](https://www.jpmorgan.com),  focusing primarily on fintech, payments, security and reporting systems. I have experience in wide range of technologies writing backend and frontend solutions as well as leading teams of technical and product champions. 
 
-Growing up, I've always been fascinated with how the world works, and the ability to write software allows me to creatively explore the world and leave it a little better.
+Outside of my programming and [reading pursuits](https://www.notion.so/shiveenp/084b9f6a8bba42c89e29564b32ce9569?v=6a38d11de89340478e086da1fde7a58a), my other hobbies include hiking/camping, photography, and boxing.
 
-In my spare time I love catching up on all things' astronomy, history and investment podcasts, and am an avid reader with my favourite genres being hard science fiction, psychology and modern history. Here's a list of titles I'm currently [reading](https://www.notion.so/shiveenp/084b9f6a8bba42c89e29564b32ce9569?v=6a38d11de89340478e086da1fde7a58a).
-
-Outside of my programming and reading pursuits, my long term hobbies include hiking/camping, photography and boxing.
 
 ### Other Links 🚀
 
