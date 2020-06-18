@@ -83,10 +83,5 @@ googleAnalytics = "UA-137876316-1"
     url = "about/"
     weight = 20
 
-  [[menu.main]]
-     name = "Links"
-     url = "links/"
-     weight = 30
-
 [Social]
   twitter = "https://twitter.com/shavzer"
