@@ -67,10 +67,6 @@ googleAnalytics = "UA-137876316-1"
     name = "twitter"
     url = "https://twitter.com/shavzer"
 
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/shiveen-pandita/"
-
 [menu]
 
   [[menu.main]]
