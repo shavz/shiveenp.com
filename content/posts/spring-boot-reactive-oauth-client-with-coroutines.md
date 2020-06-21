@@ -128,6 +128,78 @@ That concludes our build for this app. To test, let's fire it up using the ever 
 
 Once done, this will start up our Springboot app and you should be able to navigate to [localhost:8080](http://localhost:8080) to see it in action.
 
+### Comparing with non-reactive flow
+
+Thanks to [clojj](https://github.com/clojj) the example project for this post has been updated. It now supports demonstrating how the HTTP responses work for Flow type vs sending a normal response. To demonstrate, we now have two endpoints that return the same data as the endpoint described originally in this post but have been segregated into a non-blocking vs blocking function. Our `Router.kt` file now looks like:
+
+```kotlin
+@RestController
+class Router {
+
+    @Bean
+    fun routes(handler: Handler) = coRouter {
+        "/".nest {
+            GET("flow", handler::getStarredReposAsFlow)
+            GET("list", handler::getStarredReposAsList)
+        }
+    }
+}
+```
+where we now have a `getStarredReposAsList` endpoint to demonstrate sending the data as List. Consequently, the handler and service now look like,
+
+`Handler.kt`
+```kotlin
+@Component
+class Handler(val service: Service) {
+
+    suspend fun getStarredReposAsFlow(req: ServerRequest): ServerResponse {
+        val starredRepos = service.getUserStarredReposAsFlow()
+        return ok().bodyAndAwait(starredRepos)
+    }
+
+    suspend fun getStarredReposAsList(req: ServerRequest): ServerResponse {
+        val starredRepos = service.getUserStarredReposAsList()
+        return ok().bodyValueAndAwait(starredRepos)
+    }
+}
+```
+
+`Service.kt`
+```kotlin
+@Service
+class Service(val client: WebClient) {
+
+    suspend fun getUserStarredReposAsFlow(): Flow<Repository> {
+        return client
+            .get()
+            .uri("https://api.github.com/user/starred?page=1")
+            .retrieve()
+            .bodyToFlow()
+    }
+
+    suspend fun getUserStarredReposAsList(): List<Repository> {
+        return client
+            .get()
+            .uri("https://api.github.com/user/starred?page=1")
+            .retrieve()
+            .awaitBody()
+    }
+}
+```
+
+To illustrate our point, lets fire the app again and check the responses sent by these two endpoints.
+
+
+{{< figure src="/spring-boot-oauth-kotlin-flow-chunked-response.png" alt="image" caption="Response when hitting the flow endpoint (contains transfer-encoding header)" >}}
+
+
+{{< figure src="/spring-boot-oauth-kotlin-list-non-chunked-response.png" alt="image" caption="Response when hitting the list endpoint (contains the full content-length header)" >}}
+
+
+As expected, the Flow based non-blocking endpoint does not know what the full size of the response will be so it adds the `transfer-encoding: chunked` header. On the other hand, the blocking type endpoint which returns a list directly knows the response size beforehand, so it adds the `Content-Length` header letting the client know the size of the payload being received straightaway.
+
+Depending on the specs of your application and how you want the browser to behave it is probably worthwhile understanding which of these two http responses suit your usecase.
+
 ## Conclusion
 
 As someone who moved from springboot with spring mvc building blocking code to using spring webflux and spending hours to understand the non-blocking paradigm - the Flow support in webflux is a welcome evolution. The potential of migrating existing codebases to non-blocking stream based paradigm has been greatly amplified, and I can already see the impact it is having in making my own side projects a lot easier to build and reason about! 
@@ -143,3 +215,4 @@ If you'd like to experiment yourself the source code for this post can be found 
 4. https://todd.ginsberg.com/post/springboot-reactive-kotlin-coroutines/
 5. https://spring.io/guides/tutorials/spring-boot-oauth2/
 6. https://spring.io/guides/tutorials/spring-boot-oauth2/#github-register-application
+7. https://www.httpwatch.com/httpgallery/chunked/
