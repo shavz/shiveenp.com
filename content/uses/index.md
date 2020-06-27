@@ -39,11 +39,13 @@ I have only listed main highlights here. For a more comprehensive listing - my d
 ### Apps 
 
 - [1Password](https://1password.com) for managing my logins and passwords - their family plans has been especially useful
-- A combination [Bear](https://bear.app) for quick note taking and [Notion](https://www.notion.so) as my knowledge colosseum
+- A combination [Bear](https://bear.app) for quick note taking/writing and [Notion](https://www.notion.so) as my knowledge colosseum
 - [Alfred 4](https://www.alfredapp.com/) probably the most used app in my toolkit, saves me so much time
 - [Things 3](https://culturedcode.com/things/) as my main GTD app. Also hands down the best app I own across all my devices
 - [Fantastical](https://flexibits.com/fantastical) as my mac calendar replacement, this app is worth every penny and makes integrating with my scheduling service (Gcal, Zoom etc) a breeze.
-- [Apple Music](https://www.apple.com/au/apple-music/) for music. I migrated away from Spotify after 6 years of using them since I find the apple music interface better. However, they're both great choices in my opinion.
+- [Pocket](https://getpocket.com) for aggregating random links I find interesting overt the interwebs
+- [Reeder](https://reederapp.com) for consuming my news sources. My normal integrations include feedly, pocket and my safari readt it later queue
+- [Apple Music](https://www.apple.com/au/apple-music/) for music streaming. I migrated away from Spotify after 6 years of using them since I find the apple music interface better. However, they're both great choices in my opinion.
 
 ### Accessories
 
