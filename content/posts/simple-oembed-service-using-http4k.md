@@ -4,7 +4,7 @@ date: 2019-03-18T11:27:06+11:00
 tags:
 - http4k
 - kotlin
-- oembed
+- serverless
 ---
 
 Recently on my usual #githunt prowl I came across a new promising http library called [http4k](https://github.com/http4k/http4k/). The library is based on the philosophy of **Application as Function** based on the twitter paper [Your Server as a Function](https://monkey.org/~marius/funsrv.pdf) and promises a lightweight a server toolkit alongwith a very modular approach to adding functionality on top of the core set of capabilities built in. But the best part of all, http4k is written in pure Kotlin and follows a consistent functional approach in handling http services.
@@ -104,7 +104,7 @@ data class IgOembedResponse(
 
 In this example, I've used the `@JsonIgnoreProperties` and `@JsonAlias` annotations from [jackson](https://github.com/FasterXML/jackson) which is a well known serialization/deserialization library for java. However, http4k does not limit to just one such library and provides various options such as [Gson](https://github.com/google/gson), [moshi](https://github.com/square/moshi) etc. as plugins. Just remember to add the library of your choice in your build.gradle.
 
-Finally, going back to the our code snippet for `getOembedData` introduced earlier, we first setup a new client:
+Finally, going back to our code snippet for `getOembedData` introduced earlier, we first setup a new client:
 
 ```kotlin
 val client: HttpHandler = JavaHttpClient()
@@ -118,11 +118,11 @@ To parse the bytestream in a typesafe way, we attach it to our lens which contai
 igLens.extract(client(request))
 ```
 
-if the request is succesful, we will get an object parsed into the `IgOembedResponse` type. For our purposes, what we really need is the html, which gives us the full oembed html whioch we can use in an iframe.
+if the request is successful, we will get an object parsed into the `IgOembedResponse` type. For our purposes, what we really need is the html, which gives us the full oembed html which we can use in an iframe.
 
 
 ### Final Notes
 In the end, I ended up deploying the app on aws lambda by by setting up an API gateway and a lambda function that called the final app. The final cleaned source code for the app is located [here](https://github.com/shavz/koember) and it also contains the instructions on how to call the aws lambda function to get the oembed responses.
 
-All in all, I was pleasantly surprised at how productive I was working with http4k and how easy it is to setup a FAAS type application using kotlin and AWS.
+All in all, I was pleasantly surprised at how productive I was working with http4k and how easy it is to set up a FAAS type application using kotlin and AWS.
 
