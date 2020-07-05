@@ -11,7 +11,6 @@ The hike starts off near an overcrowded parking spot off [Woy Woy Road](https://
 {{< figure src="/mt_woy_woy_1.jpeg" alt="Start of the firetrail" caption="Firetrail start" class="left" >}}
 
 Past the closed gate, the hike starts on a gravel road that blends into a standard australian bush fire trail.  There is not much shade once you go on the firetrail but there are plenty of trees in case you want to rest and take in the nature or do some bird watching. There's also a small pond that filled with water when we visited and might make for a nice swimming spot in summer.
-
 {{< figure src="/mt_woy_woy_2.jpeg" alt="Pond" caption="Pond midway through the beginning" class="right" >}}
 
 Once you've walked on the firetrail for almost a kilometer you're presented with another gate that forbids pet animals. Unlike some previous hikes where I have seen parks prevent pets from entering (due to having poison meant for other animals on the track), this one had a barricade because pets scare away the native fauna and then they don't reproduce 😮. Since we didn't have any pets. we jumped the gate and made our way further in.
