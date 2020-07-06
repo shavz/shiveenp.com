@@ -26,12 +26,12 @@ I have only listed main highlights here. For a more comprehensive listing - my d
 ### Development Tools
 
 - iTerm2  with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
-- IntelliJ IDEA Ultimate: IDE of choice for both back and front end work
+- IntelliJ IDEA Ultimate: IDE of choice for both back and front end work. 
 - Sublime Text for general text editing needs
 - Postico for developing in my primary database, postgres
 - AWS Lightsail for deploying my hobby apps and Netlify for static site hosting
 - Safari as my daily driver for general web usage and personal dev. I keep Chrome around for dev tooling.
-- Jetbrains Mono as my programming font since it works well with the stack I use
+- [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) as my programming font since it works well with the stack I use and [Darcula Pro](https://draculatheme.com/pro) as my global theme
 
 ### Mac Apps 
 
@@ -39,8 +39,7 @@ I have only listed main highlights here. For a more comprehensive listing - my d
 - Bear as my note and wiki app. I love how it gets out of my way and lets me focus on just writing. I have tried various other alternatives like Notion, Apple Notes, OneNote etc but keep coming back to Bear and will probably stick with it for a long time now.
 - Alfred 4: probably the most used app in my toolkit, saves me so much time
 - Things 3 as my main GTD app. Also hands down the best app I own across all my devices
-- Pocket for aggregating random links I find interesting over the interwebs
-- Reeder for consuming my news sources. My normal integrations include feedly, pocket and my safari readt it later queue
+- Reeder for consuming my news sources. My normal integrations include feedly, and my safari readit it later queue
 - StepTwo Authenticator as my TOTP store. I really like the nice interface and native iCloud sync
 - Apple Music for music streaming. I migrated away from Spotify after 6 years of using them since I find the apple music interface better. However, they're both great choices in my opinion.
 
